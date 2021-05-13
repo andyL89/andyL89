@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A creative and analytical thinker with a background in music and social work</h3>
 
 - 🔭 I’m currently working on [intervals ear trainer](https://github.com/andyL89/intervals-ear-trainer)
 
