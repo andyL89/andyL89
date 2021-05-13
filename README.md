@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zzutawvj69xLXkFRk78vMzylxbVO0_7-/view?usp=sharing](https://drive.google.com/file/d/1zzutawvj69xLXkFRk78vMzylxbVO0_7-/view?usp=sharing)
 
-- ⚡ Fun fact **I make music in my free-time: https://tear-free.bandcamp.com/**
+- ⚡ Fun fact: **I make music in my free-time: https://tear-free.bandcamp.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
